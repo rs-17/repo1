@@ -1,13 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is EC16-8C38
-
- Directory of C:\Users\rohan\OneDrive\Desktop\MyProject
-
-03-05-2020  12:37    <DIR>          .
-03-05-2020  12:37    <DIR>          ..
-30-04-2020  00:31                22 index.html
-03-05-2020  12:28               451 main.html
-03-05-2020  12:37                 0 pages.txt
-30-04-2020  00:31                10 test1.txt
-               4 File(s)            483 bytes
-               2 Dir(s)  66,527,023,104 bytes free
+Full Stack Web Developer and Fresher
